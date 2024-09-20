@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabriel-bezerra14&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Gabriel-Bezerra-14/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gabriel-bezerra14&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/Gabriel-Bezerra-14/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **Gabriel-Bezerra14/Gabriel-Bezerra14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
