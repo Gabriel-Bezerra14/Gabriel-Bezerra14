@@ -7,6 +7,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-bezerra14&layout=compact&langs_count=8&card_width=300&show_icons=true&theme=merko" />
 </a>
+
 ------
 <div style="display: inline_block"><br>
   <h2>Técnologias:</h2>
